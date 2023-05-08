@@ -1,0 +1,16 @@
+{
+	"user": "Jake-Hero",
+	"repo": "dfile",
+	"entry": "test.pwn",
+	"output": "gamemodes/test.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib",
+		"JaTochNietDan/SA-MP-FileManager:1.5.1"
+	],
+	"runtime": {
+		"version": "0.3.7",
+		"mode": "server",
+		"rcon_password": "password",
+		"port": 7777
+	}
+}
